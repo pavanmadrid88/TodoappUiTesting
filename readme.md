@@ -29,6 +29,6 @@
 
 ### Reports
 The Extent report is integrated with maven and generates a report in HTML format.
-#### Cucumber HTML report
-The HTML report gives a graphical representation of the test results. The test results can be viewed by features, scenarios or steps.
+#### Extent HTML report
+The HTML report gives a graphical representation of the test results.
 ![extent-report-html](readme-files/images/extent_report.png)
