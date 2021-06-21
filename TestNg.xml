@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Todo app Test Automation Test Suite">
+
+    <listeners>
+        <listener class-name="listeners.ExtentReportsListener"/>
+    </listeners>
+
+
+    <test name="Todo App Test Cases">
+        <classes>
+            <class name="Todo.TodoPageTest"/>
+        </classes>
+    </test>
+</suite>
